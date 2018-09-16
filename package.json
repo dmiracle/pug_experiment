@@ -1,14 +1,19 @@
 {
   "name": "pug_experiment",
   "version": "1.0.0",
-  "description": "\"experiment with node, express and pug\"",
+  "description": "experiment with node, express and pug",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  },
   "repository": {
     "type": "git",
-    "url": "\u0016https://github.com/dmiracle/pug_experiment.git"
+    "url": "https://github.com/dmiracle/pug_experiment.git"
   },
   "author": "Dylan Miracle",
   "license": "ISC"
