@@ -14,3 +14,5 @@ Make a node / express / pug site
 6. nodemon
 7. json
 8. ejs
+        - not really going very far into this because this is a pug project
+9. pug view
